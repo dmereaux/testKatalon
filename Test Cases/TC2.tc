@@ -5,4 +5,17 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>dbe4bd1a-bf2f-4547-a6de-89acb9102916</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>27f84d8b-79e6-4723-a0d1-6bb8974f9fe7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'MUG'</defaultValue>
+      <description></description>
+      <id>27f84d8b-79e6-4723-a0d1-6bb8974f9fe7</id>
+      <masked>false</masked>
+      <name>item</name>
+   </variable>
 </TestCaseEntity>

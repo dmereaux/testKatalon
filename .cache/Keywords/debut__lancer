@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "E85DAA95C4E585894DFDF15EFF37342A",
+  "keywordClasses": [
+    {
+      "name": "debut.lancer",
+      "keywordMethods": [
+        {
+          "name": "allerSurPrestashop",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
