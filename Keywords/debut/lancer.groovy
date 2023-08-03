@@ -23,9 +23,9 @@ import internal.GlobalVariable
 public class lancer {
 	@Keyword
 	def allerSurPrestashop() {
-//		KeywordUtil.logInfo("presta")
+		//		KeywordUtil.logInfo("presta")
 		WebUI.openBrowser('')
 		WebUI.navigateToUrl('http://prestashop.qualifiez.fr/en/')
-//		KeywordUtil.markPassed("Presta OK")
+		//		KeywordUtil.markPassed("Presta OK")
 	}
 }
